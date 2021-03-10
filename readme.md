@@ -1,4 +1,4 @@
-## Spring Framework Modules
+## Spring Framework Modules for the savvy-java project
 
 Due to package deprecations, some milestone versions specified in the pom.xml file will no longer be available.
 Although there may be other compitible versions, the release versions of those packages contain breaking changes relative to the codebase.
